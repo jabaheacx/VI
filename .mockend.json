@@ -1,7 +1,15 @@
 {
   "Attribute": {
-    "Affluency": { "string": {} },
+    "Affluent_Couples_No_Kids": { "string": {} },
     "Age": { "string": {} },
-    "Homeownership": { "string": {} }
+    "Homeownership": { "string": {} },
+    "Household_Size": { "string": {} },
+    "Dwelling_Type": { "string": {} },
+    "Education": { "string": {} },
+    "Green_Living": { "string": {} },
+    "Estimated_Household_Income": { "string": {} },
+    "Marital_Status_In_Household": { "string": {} },
+    "Online_Purchasing_Indicator": { "string": {} },
+    "Presence_Of_Children": { "string": {} }
   }
 }

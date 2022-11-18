@@ -3,9 +3,9 @@
     "Age": { "string": [ "20-30","30-40","40-50","50-60","60-70","70+" ] },
     "Homeownership": { "string": ["Homeowner","Renter"] },
     "Household_Size": { "string": [ "1-2","3-4","4-5","5+" ] },
-    //"Dwelling_Type": { "string": ["Single Family", "Multifamily"] },
+    /*"Dwelling_Type": { "string": ["Single Family", "Multifamily"] },*/
     "Education": { "string": ["Highschool", "Some Secondary", "Associates Degreee", "Bachelors Degree", "Post Secondary Degree"] },
-    //"Green_Living": { "string": ["Yes","No"] },
+    /*"Green_Living": { "string": ["Yes","No"] },*/
     "Estimated_Household_Income": { "string": ["$20,000-$40,000","$40,000-$60,000","$60,000-$100,000","$100,000-$200,000","$200,000-$400,000","$400,000+"] },
     "Marital_Status_In_Household": { "string": ["Single","Married","Cohabitate"] },
     "Online_Purchasing_Indicator": { "string": ["Yes","No"] },

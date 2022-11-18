@@ -24,7 +24,7 @@
     "New_Job_Reason_for_Purchase": { "string": ["Yes","No"] },
     "Growing_Family_Reason_For_Purchase": { "string": ["Yes","No"] },
     "Child_Driver_Reason_For_Purchase": { "string": ["Yes","No"] },
-    "Affluent_Parents_Of_Teens": { "string": ["Yes","No"] },
+    "Affluent_Parents_Of_Teens": { "string": ["Yes","No"] }
   },
   "Finance": {
     "Affluent_Couples_No_Kids": { "string": [ "Yes","No" ] },

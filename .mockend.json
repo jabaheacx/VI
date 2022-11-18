@@ -52,12 +52,5 @@
     "Marital_Status_In_Household": { "string": ["Single","Married","Cohabitate"] },
     "Online_Purchasing_Indicator": { "string": ["Yes","No"] },
     "Presence_Of_Children": { "string": ["Yes","No"] }
-  },
-  "ModelName": {
-    "fieldName": {
-      "<type>": {} | [],
-      "hasMany": "Model",
-      "belongsTo": "Model"
-    }
   }
 }

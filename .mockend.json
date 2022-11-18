@@ -1,5 +1,5 @@
 {
-  "Attribute": {
+  "Auto": {
     "Affluent_Couples_No_Kids": { "string": [ "Yes","No" ] },
     "Age": { "string": [ "20-30","30-40","40-50","50-60","60-70","70+" ] },
     "Homeownership": { "string": ["Homeowner","Renter"] },
@@ -11,5 +11,9 @@
     "Marital_Status_In_Household": { "string": ["Single","Married","Cohabitate"] },
     "Online_Purchasing_Indicator": { "string": ["Yes","No"] },
     "Presence_Of_Children": { "string": ["Yes","No"] }
+  },
+  "Finance: {
+  },
+  "Grocery: {
   }
 }

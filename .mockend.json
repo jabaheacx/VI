@@ -1,7 +1,7 @@
 {
   "Attribute": {
-    "Affluent Couple No Kids": { "string": {} },
+    "Affluency": { "string": {} },
     "Age": { "string": {} },
-    "Homeowner/Renter": { "string": {} }
+    "Homeownership": { "string": {} }
   }
 }
